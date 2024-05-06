@@ -5,6 +5,7 @@ A machine learning-based system for real-time seizure detection using wearable d
 ## Authors
 
 - [@Dipin-Raj](https://github.com/Dipin-Raj)
+- [@Rhishitha](https://github.com/rishi7736)
 
 ## Documentation
 
@@ -15,11 +16,6 @@ A machine learning-based system for real-time seizure detection using wearable d
 - Enhance algorithm performance
 - Integrate with healthcare systems
 - Validate in clinical settings
-
-## Screenshots
-
-![Graphical Abstract](https://github.com/Dipin-Raj/Real_Time_Seizure_Detection/assets/124481530/7f41243f-c4da-4824-9dde-5303cc94de14)
-![Result Picture](https://github.com/Dipin-Raj/Real_Time_Seizure_Detection/assets/124481530/14f34d21-83b5-463d-ab1c-d6eca4af4a8a)
 
 ## Abstract
 
@@ -33,6 +29,8 @@ Epileptic seizures affect approximately 50 million people worldwide. Traditional
 
 The proposed solution utilizes machine learning models trained on multimodal sensor data to precisely identify seizures in epileptic patients. The system collects information on physiological variables such as skin resistance, mobility, and heart rate using wearable sensors. The objective is to create a highly sensitive machine learning model capable of reliably detecting seizures in real time.
 
+<img src="https://github.com/Dipin-Raj/Real_Time_Seizure_Detection/assets/124481530/7f41243f-c4da-4824-9dde-5303cc94de14" alt="Graphical Abstract" width="500"/>
+
 ## Methodology
 
 The dataset is prepared by reading and preprocessing raw data obtained from wearable sensors. Machine learning algorithms including Logistic Regression, Random Forest, Gradient Boosting, SVM, KNN, Gaussian Naive Bayes, and MLP are used for classification. The performance of these algorithms is evaluated using various metrics including accuracy, precision, recall, and F-score.
@@ -40,6 +38,8 @@ The dataset is prepared by reading and preprocessing raw data obtained from wear
 ## Result
 
 The study demonstrates the superior performance of the MLP classifier in detecting seizures, with an accuracy of 97.4%, precision of 94.8%, recall of 96.8%, and F-score of 95.6%. Logistic Regression and Support Vector Machine algorithms also show promising results. These findings highlight the potential of machine learning algorithms in managing multimodal datasets and detecting seizures using wearable technology.
+
+![Result Picture](https://github.com/Dipin-Raj/Real_Time_Seizure_Detection/assets/124481530/14f34d21-83b5-463d-ab1c-d6eca4af4a8a)
 
 ## Conclusion
 
